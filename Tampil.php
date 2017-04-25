@@ -20,8 +20,7 @@
 			<input class="btnForm" type="submit" name="submit" value="Perkiraan cuaca hari ini"/>
 			</form>
 			<form action="Conditions.php" method="get">
-			<input class="btnForm" type="submit" name="submit" value="Perkiraan cuaca panas 1 minggu ke depan"/>
-			<input class="btnForm" type="submit" name="submit" value="Perkiraan cuaca hujan 1 minggu  ke depan"/>
+			<input class="btnForm" type="submit" name="submit" value="Perkiraan cuaca 1 minggu ke depan"/>
 			</form>
 		</div>
 	</body>
